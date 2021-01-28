@@ -5,5 +5,6 @@
 
 - 🍻 CDUT
 - ⚡ PHP
+- Penetration testing
 - ✍️ [Blogger](https://cdut.work)
 - ♟ Chinese Chess
