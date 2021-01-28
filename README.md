@@ -6,4 +6,4 @@
 - 🍻 CDUT
 - ⚡ PHP
 - ✍️ [Blogger](https://cdut.work)
-- - ♟ Chinese Chess
+- ♟ Chinese Chess
