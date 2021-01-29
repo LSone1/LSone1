@@ -3,7 +3,7 @@
 
 - 🌱 *Currently Learning*: Penetration Testing, Kali Linux and Tools
 - ✍️ [Beginning Blogger](https://cdut.work)
-<br>
+
 📫 How to reach me: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](thehiddenfaker@gmail.com)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://www.twitter.com/brucelsone)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](https://www.thehiddenfaker@gmail.com)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://www.twitter.com/brucelsone)
