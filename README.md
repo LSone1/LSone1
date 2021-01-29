@@ -5,5 +5,5 @@
 - ✍️ [Beginning Blogger](https://cdut.work)
 
 📫 How to reach me: <br>
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](https://www.thehiddenfaker@gmail.com)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](https://thehiddenfaker@gmail.com)
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://www.twitter.com/brucelsone)
