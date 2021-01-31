@@ -1,9 +1,5 @@
 ### Yoo, I'm LSone1 👋
 ## ![](https://github-readme-stats.vercel.app/api?username=lsone1)
 
-- 🌱 *Currently Learning*: Penetration Testing, Kali Linux and Tools
+- 🌱 *Currently Learning*: Penetration Testing and Kali Linux
 - ✍️ [Beginning Blogger](https://cdut.work)
-
-📫 How to reach me: <br>
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](https://thehiddenfaker@gmail.com)
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://www.twitter.com/brucelsone)
