@@ -1,4 +1,4 @@
-### Yoo, I'm LSone1 👋
+### Yoo, I'm BruceZ 👋
 ## ![](https://github-readme-stats.vercel.app/api?username=lsone1)
 
 - 🌱 *Currently Learning*: Penetration Testing and Kali Linux
